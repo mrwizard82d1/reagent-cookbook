@@ -1,7 +1,8 @@
 (defproject add-routing "0.1.0-SNAPSHOT"
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.122"]
-                 [reagent "0.5.1"]]
+                 [reagent "0.5.1"]
+                 [secretary "1.2.3"]]
 
   :source-paths ["src/clj"]
 
